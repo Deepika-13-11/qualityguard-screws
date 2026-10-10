@@ -1,0 +1,9 @@
+{
+  "component": "M8 x 30 mm Socket Head Cap Screw (Grade 12.9, ISO 4762)",
+  "standards": ["ISO 4762", "ISO 898-1", "ISO 965-1 (thread tolerance 6g)"],
+  "features": {
+    "thread_pitch_diameter": {"label": "Thread Pitch Diameter (M8x1.25, 6g)", "nominal": 7.188, "lsl": 7.042, "usl": 7.160, "unit": "mm"},
+    "shank_length":          {"label": "Screw Length", "nominal": 30.00, "lsl": 29.75, "usl": 30.25, "unit": "mm"},
+    "head_diameter":         {"label": "Socket Head Diameter", "nominal": 13.00, "lsl": 12.73, "usl": 13.00, "unit": "mm"}
+  }
+}

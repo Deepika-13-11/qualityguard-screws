@@ -1,0 +1,3 @@
+matplotlib>=3.5
+# optional - only needed for the Claude root-cause analysis:
+# anthropic

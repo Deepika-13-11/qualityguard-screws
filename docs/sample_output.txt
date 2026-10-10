@@ -1,0 +1,28 @@
+======================================================================
+ QUALITYGUARD AI - FASTENER INSPECTION AUDIT REPORT
+ Component : M8 x 30 mm Socket Head Cap Screw (Grade 12.9, ISO 4762)
+ Batch ID  : batch_004_SCREW-8833   Material: Alloy Steel 40Cr
+ Timestamp : 2026-10-10 17:24:04   (batches in memory: 3)
+======================================================================
+
+[Agent Disposition]: REJECTED (QUARANTINED)
+
+* Thread Pitch Diameter (M8x1.25, 6g)  [7.042 - 7.16 mm]
+    Mean 7.1137 | SD 0.012 | Cpk 1.29 | Defects 0/20 (0.0%)
+    Status: WATCH
+    Action: Marginal capability (Cpk 1.29 < 1.33). Increase sampling frequency.
+
+* Screw Length  [29.75 - 30.25 mm]
+    Mean 30.0405 | SD 0.1018 | Cpk 0.69 | Defects 1/20 (5.0%)
+    Status: WARNING
+    Action: 1 out-of-spec part(s). 100% sort the batch and inspect tooling.
+
+* Socket Head Diameter  [12.73 - 13.0 mm]
+    Mean 12.9935 | SD 0.0312 | Cpk 0.07 | Defects 6/20 (30.0%)
+    Trend : UPWARD drift toward USL
+    Status: CRITICAL
+    Action: 30.0% of parts out of tolerance (undersize). Quarantine the batch, check tooling wear (heading die / thread-rolling dies) and the wire-coil lot.
+
+======================================================================
+Saved: reports/batch_004_SCREW-8833_report.json
+Saved: reports/batch_004_SCREW-8833_chart.png
