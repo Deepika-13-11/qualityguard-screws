@@ -2,7 +2,8 @@
 
 **Agent type:** Agentic Agent (autonomous inspection, reasoning and decision-making)
 **Component:** M8 x 30 mm Socket Head Cap Screw, Grade 12.9 (ISO 4762)
-**Author:** Kallu Deepika - B.Tech Mechanical Engineering, VIT Vellore
+**Authors:** Kallu Deepika - B.Tech Mechanical Engineering, VIT Vellore, 
+             Gouri Lakshmi Thekkat - B.Tech Mechatronics and Automation Engineering, VIT Vellore.
 
 ## Problem statement
 Manual inspection of fastener batches is slow, and process drift (e.g. a wearing heading die)
